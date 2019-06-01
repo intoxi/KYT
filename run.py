@@ -2,7 +2,7 @@
 class Person():
 
     def __init__(self):
-        self.name = "Tomek"
+        self.name = "Piotrek"
         self.surname = "Kowalski"
         self.age = 25
 
